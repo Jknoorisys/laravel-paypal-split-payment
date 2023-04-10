@@ -1,4 +1,4 @@
-<h1>Laravel Paypal Payment Integration</h1>
+<h1>Laravel Paypal Split Payment Integration</h1>
 
 <h4>Steps to clone laravel project</h4>
 <ul>
@@ -27,9 +27,9 @@
 <ol>
     <li><h5>Create a new project</h5></li>
         <p>Create a new project with the command as below.</p>
-        <p><i>composer create-project laravel/laravel-paypal-payment-integration</i></p>
+        <p><i>composer create-project laravel/laravel-paypal-split-payment</i></p>
         <p>After the new project has been created, go to your project directory.</p>
-        <p><i>cd laravel-paypal-payment-integration</i></p>
+        <p><i>cd laravel-paypal-split-payment</i></p>
     <li><h5>Install Packages for Paypal Payment Gateway Using Composer</h5></li>
         <p>Run the following command.</p>
         <p><i>composer require srmklive/paypal</i></p>
