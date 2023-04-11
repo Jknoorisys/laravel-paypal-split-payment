@@ -21,7 +21,7 @@
     <li> Configure the package </li>
     <li> Create Routes </li>
     <li> Run the app </li>
-    <li> Run APIs on Postman (https://api.postman.com/collections/18476697-68fa134a-7efd-4cb7-aa40-b3d48fedf640?access_key=PMAT-01GW1GCWTDKSN8VA74FJBVMH41) </li>   
+    <li> Run APIs on Postman (https://api.postman.com/collections/18476697-5ffb19b3-5c14-41f4-836b-713373fd249d?access_key=PMAT-01GXQ7VB17XAP93EQGA2C91WA0) </li>   
 </ul>
 
 <ol>
